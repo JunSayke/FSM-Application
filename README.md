@@ -44,4 +44,7 @@ You can modify these behaviors by editing the state transition logic in the scri
 - **State Management**: The NPC uses a state transition table to switch between behaviors. Modify the table to add or change state transitions.
 - **Pathfinding**: Roblox’s **PathfindingService** is used for NPC navigation.
 
+## DFA Structure
+![image](https://github.com/user-attachments/assets/f69ffb59-8d73-4d3b-a3b7-11053737f274)
+
 Feel free to extend the project by tweaking the states or adding new behaviors!
