@@ -11,9 +11,12 @@ This project implements a **Finite State Machine (FSM)** to control NPC behavior
 ## Installation
 
 ### Step 1: Download and Open the Project
-1. Download the `.rbxl` file containing the NPC and FSM logic.
-2. Open **Roblox Studio**.
-3. Click **File > Open from File** and select the downloaded `.rbxl` file.
+1. Clone the repository using the following command:
+   
+   ```bash
+   git clone https://github.com/JunSayke/FSM-Application.git
+3. Open **Roblox Studio**.
+4. Click **File > Open from File** and select the downloaded `.rbxl` file.
 
 ### Step 2: Explore the Place
 - The place contains an NPC (rig) set up with a Finite State Machine (FSM) script.
